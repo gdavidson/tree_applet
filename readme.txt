@@ -1,4 +1,4 @@
-To run the applet open "TreeApplet.html". Start by creating a new tree before doing anything else.
+To run the applet open "TreeApplet.html" in /build folder. Start by creating a new tree before doing anything else.
 
 Known issues:
 
